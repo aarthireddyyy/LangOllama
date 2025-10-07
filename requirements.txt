@@ -1,0 +1,4 @@
+langchain
+ollama
+pypdf
+rich
